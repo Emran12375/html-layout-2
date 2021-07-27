@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    overflow: hidden;
+
+}
+.logo{
+    background-color: darkgrey;
+    color: black;
+    width: 20%;
+    float: left;
+    text-align: center;
+    height: 100px;
+      
+}
+nav{
+    background-color: cadetblue;
+    color: chartreuse;
+    width: 80%;
+    float: left;
+    text-align: center;
+    height: 100px;
+
+}
+.header-bar{
+    background-color: grey;
+    color: mediumblue;
+    text-align: center;
+    height: 50px;
+}
+.content{
+    overflow: hidden;
+}
+.left-block{
+    background-color: turquoise;
+    color: black;
+    text-align: center;
+    width: 25%;
+    height: 500px;
+    float: left;
+
+}
+.center-block{
+    background-color: chartreuse;
+    color: darkred;
+    text-align: center;
+    width: 50%;
+    height: 500px;
+    float: left;
+
+}
+.right-block{
+    background-color: dodgerblue;
+    color: black;
+    text-align: center;
+    width: 25%;
+    height: 500px;
+    float: left;
+
+}
+.top{
+    background-color: darkblue;
+    height: 150px;
+
+}
+.middle{
+    background-color: darkcyan;
+    height: 200px;
+    overflow: hidden;
+
+}
+.bottom{
+    background-color: green;
+    height: 150px;
+}
+.left-blocks{
+    background-color: red;
+    color: black;
+    text-align: center;
+    height: 100%;
+    width: 50%;
+    float: left;
+
+}
+.right-blocks{
+    background-color: chartreuse;
+    color: cornsilk;
+    text-align: center;
+    height: 100%;
+    width: 50%;
+    float: left;
+
+}
+.footer{
+    background-color: darkcyan;
+    color: darkred;
+    text-align: center;
+    
+}
